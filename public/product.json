@@ -1,0 +1,23 @@
+[
+    { "id": 1, "name": "Wireless Mouse", "price": 25.99 },
+    { "id": 2, "name": "Gaming Keyboard", "price": 45.50 },
+    { "id": 3, "name": "USB-C Charger", "price": 19.99 },
+    { "id": 4, "name": "Bluetooth Headphones", "price": 59.99 },
+    { "id": 5, "name": "LED Monitor", "price": 129.99 },
+    { "id": 6, "name": "Laptop Stand", "price": 34.95 },
+    { "id": 7, "name": "External Hard Drive", "price": 89.00 },
+    { "id": 8, "name": "Webcam", "price": 49.99 },
+    { "id": 9, "name": "Desk Lamp", "price": 22.49 },
+    { "id": 10, "name": "Smart Watch", "price": 199.99 },
+    { "id": 11, "name": "Portable Speaker", "price": 39.95 },
+    { "id": 12, "name": "Graphics Tablet", "price": 74.99 },
+    { "id": 13, "name": "Ergonomic Chair", "price": 149.95 },
+    { "id": 14, "name": "Noise Cancelling Earbuds", "price": 89.99 },
+    { "id": 15, "name": "Smartphone Tripod", "price": 29.99 },
+    { "id": 16, "name": "VR Headset", "price": 299.00 },
+    { "id": 17, "name": "Action Camera", "price": 199.95 },
+    { "id": 18, "name": "Wireless Router", "price": 79.99 },
+    { "id": 19, "name": "USB Hub", "price": 17.50 },
+    { "id": 20, "name": "Power Bank", "price": 24.99 }
+  ]
+  
